@@ -1,6 +1,7 @@
 # 🌟 Responsive Personal Profile Website
 
 A responsive single-page personal portfolio website built using **HTML5** and **CSS3** as part of the **TechMood Front-End Bootcamp**. This project focuses on modern layouts, Flexbox, CSS Grid, and responsive design principles.
+> 🔗 **Live Preview:** https://responsive-profile-website.netlify.app
 
 ## 📁 Repository Structure
 
