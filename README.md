@@ -4,10 +4,12 @@ A responsive single-page personal portfolio website built using **HTML5** and **
 
 ## 📁 Repository Structure
 
-- **Responsive-Profile-Website/**
-  - 📄 `index.html` (Main single-page portfolio layout)
-  - 🎨 `style.css` (Custom CSS styles and responsive design)
-  - 🖼️ `images/` (Project assets and profile photo)
+- **02-CSS/**
+  - **Lesson-02/**
+    - **Responsive-Profile-Website/**
+      - 📄 `index.html` (Main single-page portfolio layout)
+      - 🎨 `style.css` (Custom CSS styles and responsive design)
+      - 🖼️ `images/` (Project assets and profile photo)
 
 ## 🛠️ Technologies Used
 
